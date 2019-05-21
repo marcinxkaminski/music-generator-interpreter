@@ -1,0 +1,5 @@
+autopep8==1.4.3
+numpy==1.16.3
+pycodestyle==2.5.0
+pysndfx==0.3.6
+pysynth==2.3.0
