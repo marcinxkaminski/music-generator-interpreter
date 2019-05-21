@@ -2,6 +2,15 @@
 
 Interpreter allows you to create music directly from code. Write your song in '.music' file, interpret it to final wave file and enjoy your music.
 
+### Prerequisites
+ - Python 3.6
+ 
+ Could be installed:
+     - Sox
+     - Brew (on macOS)
+
+
+
 ### Installing
 
 * Project setup
