@@ -6,8 +6,8 @@ Interpreter allows you to create music directly from code. Write your song in '.
  - Python 3.6
  
  Could be installed:
-     - Sox
-     - Brew (on macOS)
+ - Sox
+ - Brew (on macOS)
 
 
 
